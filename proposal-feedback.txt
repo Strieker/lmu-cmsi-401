@@ -1,0 +1,30 @@
+
+
+Evaluation and Feedback
+CMSI 401 project ~~ Fall 2020
+Sage Strieker
+Error Handling in Swift project
+=================================
+Presentation:
+   this is a very interesting project, and one of the rare capstones that
+   considers compilers!  for that alone it is noteworthy, Sage!  further, the
+   fact that you are working solo it admirable.  one thing you should think
+   about during this semester, though, is to look ahead and see if you can do
+   something about a group project for 402.  There will be a couple of groups
+   that will extend through the second semester, and I just want to make sure
+   you get the group/team experience as part of your LMU course work.  also,
+   I can't view your presentation, since it's something called a "key" file ~
+   I'm guessing that is a Mac application, so I'm going to try to view it in
+   my office tomorrow on the Mac I have there.  from what I remember, though,
+   you did a great job of presenting some intricate material in a way that
+   all of the audience can understand.
+
+Proposal Document:
+   what can I say, Sage.... awesome work!  I'm really looking forward to this
+   project and seeing what you are doing... heck, I may even have to learn to
+   program in Swift!!  :D
+
+=============================================================================
+Great job on this presentation and proposal!
+
+your score:  5% out of 5% which is an A-plus
