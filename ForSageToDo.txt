@@ -1,0 +1,26 @@
+
+
+The following work products are needed for Sage to finish the things that
+she needs for CMSI 401 Fall 2020 Senior Project
+=========================================================================
+
+1. Software Requirements Specification [SRS]
+      Discussion:
+
+
+2. Software Development Plan [SDP]
+      Discussion:
+
+
+3. Software Design Description [SDD]
+      Discussion:
+
+
+4. User Manual README.md in GitHub repository
+      Discussion:
+
+
+5. Meet with me bi-weekly to status updates [Scrum]
+      Discussion:
+      Meeting dates:
+
