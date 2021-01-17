@@ -5,19 +5,24 @@ she needs for CMSI 401 Fall 2020 Senior Project
 =========================================================================
 
 1. Software Requirements Specification [SRS]
-      Discussion:
+      Discussion: REQUIREMENTS SPEC IS WAIVED FOR SAGE FOR 401
+                  INITIAL DEVELOPMENT SCHEDULE IS WAIVED AS WELL
 
 
 2. Software Development Plan [SDP]
-      Discussion:
+      Discussion: THIS IS NIXED ~ IT WAS DROPPED FROM 401 THIS SEMESTER
 
 
 3. Software Design Description [SDD]
-      Discussion:
-
+      Discussion: COMBINE THE ARCHITECTURAL AND DETAILED DESIGN SPEC'S
+                  THIS SHOULD CUT DOWN ON THE AMOUNT OF WORK, BUT WILL
+                     STILL NEED THE DRILL FOR GETTING THE ARCHITECTURE
+                     OF THE PROJECT TOGETHER
 
 4. User Manual README.md in GitHub repository
-      Discussion:
+      Discussion: JUST MAKE AN ENTRY IN THE README.md FILE IN YOUR REPO
+                     TO TELL ME HOW TO INCLUDE YOUR PROJECT IN WHATEVER
+                     COMPILER IT GOES WITH, SO I CAN CHECK IT OUT.
 
 
 5. Meet with me bi-weekly to status updates [Scrum]
