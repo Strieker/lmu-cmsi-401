@@ -10,41 +10,41 @@
 
 4. From there, you will be asked if you want to autogenerate schemes. Say manually manage schemes. From there, navigate to manage schemes from the product menu
 
-    <images/manage-schemes.png>
+    ![](images/manage-schemes.png)
 
 5. From there, click the plus button on the corner left portion of the popup
-
-    <images/add-scheme.png>
+    
+    ![](images/add-scheme.png)
 
 6. Next, click the target menu, type swift-frontend, and select it 
 
-    <images/select-target.png>
-    <images/select-swift-frontend.png>
+    ![](images/select-target.png)
+    ![](images/select-swift-frontend.png)
 
     Note that after doing this, once you return back to the manage schemes editor, the only scheme that should be selected is swift-frontend
     
-    <images/finished-manage-scheme.png>
+    ![](images/finished-manage-scheme.png)
     
     Also note that once you get back to Xcode's main editor, your scheme name should show up as swift-frontend
     
-    <images/scheme-shows-up.png>
+    ![](images/scheme-shows-up.png)
 
 7. Now, click your scheme, and click edit scheme
 
-    <images/select-edit-scheme.png>
+    ![](images/select-edit-scheme.png)
     
 8. From here, begin to add the following arguments (highlighted in blue) to set up your scheme under the run tab in the scheme editor. Note that the last target should include a path to a test program written in Swift that you would like to pass to the compiler. That way, when you click the compiler's run button, your compiler will process the file you pass it, and write any output to the command line that is embedded in Xcode. 
 
-    <images/edit-scheme-arguments.png>
+    ![](images/edit-scheme-arguments.png)
 
 9. Now, you can run the compiler by clicking the run button from Xcode to build and run the compiler
     
-    <images/run-compiler.png>
+    ![](images/run-compiler.png)
     
     Note that you can see the output of the compiler by navigating to the following sidebar (which lists the different logs for Xcode) and clicking the heading that says run. You have to wait for the compiler to finish building before this heading will show up 
     
-    <images/navigate-to-logs.png>
-    <images/view-compiler-output.png>
+    ![](images/navigate-to-logs.png)
+    ![](images/view-compiler-output.png)
 
     
     ### If you want to just see the fix-it, simply write your program in Swift from within Xcode and build and run your program. The fix-it should reflect any errors that I wrote, should they apply to your program. 
