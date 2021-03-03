@@ -50,7 +50,7 @@
     
     ### If you want to just see the fix-it, simply write your program in Swift from within Xcode and build and run your program. The fix-it should reflect any errors that I wrote, should they apply to your program. They will look something like this (fixit is highlighted in blue)
     
-    ![](images/fix-it-example.png)
+    ![](images/fix-it.png)
     
 
 
