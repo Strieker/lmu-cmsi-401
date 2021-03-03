@@ -10,7 +10,7 @@
 
 4. From there, once Xcode opens, you will be asked if you want to autogenerate schemes. Say `Manually Manage Schemes`. From there, navigate to `Manage Schemes` from the `Product` menu
 
-    ![](images/manually-manage-schemes.png)
+    ![](images/manually-manage-schemes-popup.png)
     ![](images/manage-schemes.png)
 
 5. From there, click the plus button on the bottom left of the popup
