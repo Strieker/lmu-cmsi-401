@@ -8,11 +8,12 @@
 
 3. After going through the steps provided by the getting started guide, open the `Swift.xcodeproject` file from within your build folder, which can be found in your cloned swift project.
 
-4. From there, once Xcode opens, you will be asked if you want to autogenerate schemes. Say `Manually Manage Schemes`. From there, navigate to manage schemes from the `Product` menu
+4. From there, once Xcode opens, you will be asked if you want to autogenerate schemes. Say `Manually Manage Schemes`. From there, navigate to `Manage Schemes` from the `Product` menu
 
+    ![](images/manually-manage-schemes.png)
     ![](images/manage-schemes.png)
 
-5. From there, click the plus button on the corner left portion of the popup
+5. From there, click the plus button on the bottom left of the popup
     
     ![](images/add-scheme.png)
 
