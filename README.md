@@ -2,22 +2,24 @@
 
 ### Should you want to directly run the Swift compiler, and choose not to view the error messages and changes I've made for the project as a fix-it from within Xcode, you must do the following: 
 
-1. Fork the [Swift repository](https://github.com/apple/swift). 
+1. Download the latest version of [Xcode's beta](https://developer.apple.com/xcode/resources/).
 
-2. Follow [Swift's getting started guide](https://github.com/apple/swift/blob/main/docs/HowToGuides/GettingStarted.md) to know how to accurately clone your fork, install the proper dependencies, and learn how to build and test the project. Note that takes 3.5 GB to clone the repository, as well as additional storage to store any build artifacts when you are building the project. Build artifacts take anywhere between 5 to 70 GB of storage, depending on your build settings, which you can modify in Xcode. For more information on build settings, look at [this source](https://xcodebuildsettings.com/).
+2. Fork the [Swift repository](https://github.com/apple/swift). 
 
-3. After going through the steps provided by the getting started guide, open the `Swift.xcodeproject` file from within your build folder, which can be found in your cloned swift project.
+3. Follow [Swift's getting started guide](https://github.com/apple/swift/blob/main/docs/HowToGuides/GettingStarted.md) to know how to accurately clone your fork, install the proper dependencies, and learn how to build and test the project. Note that takes 3.5 GB to clone the repository, as well as additional storage to store any build artifacts when you are building the project. Build artifacts take anywhere between 5 to 70 GB of storage, depending on your build settings, which you can modify in Xcode. For more information on build settings, look at [this source](https://xcodebuildsettings.com/).
 
-4. From there, once Xcode opens, you will be asked if you want to autogenerate schemes. Say `Manually Manage Schemes`. From there, navigate to `Manage Schemes` from the `Product` menu
+4. After going through the steps provided by the getting started guide, open the `Swift.xcodeproject` file from within your build folder, which can be found in your cloned swift project.
+
+5. From there, once Xcode opens, you will be asked if you want to autogenerate schemes. Say `Manually Manage Schemes`. From there, navigate to `Manage Schemes` from the `Product` menu
 
     ![](images/manually-manage-schemes-popup.png)
     ![](images/manage-schemes.png)
 
-5. From there, click the plus button on the bottom left of the popup
+6. From there, click the plus button on the bottom left of the popup
     
     ![](images/add-scheme.png)
 
-6. Next, click the target menu, type `swift-frontend`, and select it 
+7. Next, click the target menu, type `swift-frontend`, and select it 
 
     ![](images/select-target.png)
     ![](images/select-swift-frontend.png)
@@ -30,15 +32,15 @@
     
     ![](images/scheme-shows-up.png)
 
-7. Now, click your scheme, and click `Edit Scheme`
+8. Now, click your scheme, and click `Edit Scheme`
 
     ![](images/select-edit-scheme.png)
     
-8. From here, begin to add the following arguments (highlighted in blue) to set up your scheme under the `Run` tab in the scheme editor. Note that the last target should include a path to a test program written in Swift that you would like to pass to the compiler. That way, when you click the run button, your compiler will process the file you pass it, and write any output to the command line that is embedded in Xcode. 
+9. From here, begin to add the following arguments (highlighted in blue) to set up your scheme under the `Run` tab in the scheme editor. Note that the last target should include a path to a test program written in Swift that you would like to pass to the compiler. That way, when you click the run button, your compiler will process the file you pass it, and write any output to the command line that is embedded in Xcode. 
 
     ![](images/edit-scheme-arguments.png)
 
-9. Now, you can run the compiler by clicking the `Run` button from within Xcode's main editor to build and run the compiler
+10. Now, you can run the compiler by clicking the `Run` button from within Xcode's main editor to build and run the compiler
     
     ![](images/run-compiler.png)
     
