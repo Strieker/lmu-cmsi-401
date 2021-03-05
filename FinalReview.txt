@@ -1,0 +1,31 @@
+
+
+Evaluation and Feedback
+CMSI 401 project ~~ Fall 2020/Spring 2021
+Sage Strieker
+Error Handling in Swift project
+   Final submission for Incomplete
+===========================================
+Evaluation of your final documentation ~ what can I say, Sage!?
+
+You did a fantastic job.  This is a very difficult thing to put together
+with something that you are entering "in the middle" so to speak.  One may
+or may not have access to any artifacts from the project, and since your
+portion was in constant flux, it is VERY difficult to put together this kind
+of documentation in that situation.
+
+Still, you did a great job with it.  Your writing is clear, your diagrams to
+the point [and colorful! :) ] and your explanations allow the reader to see
+exactly what you are doing and what the philosopy behind the project is.
+
+I'm proceeding on the assumption that you will be putting some examples of
+your source code for the project into your repo in the next day or two, but
+based on the quality of the documentation you've submitted, you're earning
+full credit for that portion as well.
+
+Great work Sage ~ an amazing job under the most difficult of circumstances!
+
+I just have two words for you:
+
+      ROCK STAR!!!
+
